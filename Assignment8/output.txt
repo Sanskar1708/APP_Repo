@@ -1,0 +1,2 @@
+Line 1: Python is a powerful programming language.
+Line 2: File handling is an essential part of programming.

@@ -1,0 +1,5 @@
+Line 1: Python is a powerful programming language.
+Line 2: File handling is an essential part of programming.
+Line 3: It allows reading and writing operations on secondary storage.
+Line 4: This is the fourth line of the sample text file.
+Line 5: End of the sample input file.
